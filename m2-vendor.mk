@@ -7,5 +7,3 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/gionee/m2/proprieta
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/gionee/m2/proprietary/xbin,system/xbin)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/gionee/m2/proprietary/vendor,system/vendor)
-
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/gionee/m2/proprietary/priv-app,system/priv-app)
